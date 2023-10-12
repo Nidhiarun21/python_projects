@@ -1,0 +1,1 @@
+This project is done to analyse the datasets given by the company. This is a data analysing  tool. This project aims to provide a deeper understanding of data relationships and structures. This is done by using basic python packages.
